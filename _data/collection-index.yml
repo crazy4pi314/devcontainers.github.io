@@ -923,3 +923,8 @@
   contact: https://github.com/lx-0/devcontainer-templates/issues
   repository: https://github.com/lx-0/devcontainer-templates
   ociReference: ghcr.io/lx-0/devcontainer-templates
+- name: Secure development templates for Dev Containers
+  maintainer: Sarah Kaiser
+  contact: https://github.com/crazy4pi314/devcontainer-security-templates/issues
+  repository: https://github.com/crazy4pi314/devcontainer-security-templates
+  ociReference: ghcr.io/crazy4pi314/devcontainer-security-templates
